@@ -1,9 +1,7 @@
 ## Welcome to GitHub Pages
-<div>
-[HOME](https://rlltde08.github.io/cs495)
-&nbsp &nbsp &nbsp
-[ABOUT](https://rlltde08.github.io/cs495/about)
-</div>
+
+[HOME](https://rlltde08.github.io/cs495)    [ABOUT](https://rlltde08.github.io/cs495/about)
+
 
 ### Markdown
 
