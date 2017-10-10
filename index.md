@@ -2,7 +2,7 @@
 {::nomarkdown}
 <div>
   <p>
-    [HOME](https://rlltde08.github.io/cs495)    [ABOUT](https://rlltde08.github.io/cs495/about)
+  <a href="https://rlltde08.github.io/cs495">Home</a>  &nbsp &nbsp &nbsp  <a href="https://rlltde08.github.io/cs495/about">About</a>
   </p>
 </div>
 {:/}
