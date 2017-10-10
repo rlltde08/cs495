@@ -16,3 +16,6 @@ DOWNLOAD: COMING SOON
 Documentation/Presenations:
 
 [Software Requirements](https://rlltde08.github.io/cs495/Pillbox-Final Requirements.pdf)
+
+[Project Summary](https://rlltde08.github.io/cs495/Project Summary.pdf)
+
