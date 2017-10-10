@@ -8,6 +8,7 @@
   <a href="https://rlltde08.github.io/cs495/deliverables">Deliverables</a> &nbsp &nbsp &nbsp  
   </p>
 </div>
+<hr>
 {:/}
 
 ### Markdown
