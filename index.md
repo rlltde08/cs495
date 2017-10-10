@@ -22,3 +22,6 @@ The medication chart is the main feature of the application that will show all o
 
 The app will be able to push notifications to the user’s device to let them know when to take medications. The user will be able to acknowledge these notifications and specify the time that the medication was taken.
 
+
+
+VIDEO: COMING SOON
