@@ -15,6 +15,8 @@
 
 The purpose of this application is to act as a management tool for medications, especially for those who have complicated regimens and need assistance in remembering when to take their medications. The application will allow the user to configure their medication schedule using a customizable chart, use pictures to help them identify medications, and be able to send reminders to let users know when to take medications.
 
+The medication chart is the main feature of the application that will show all of the medications needed to be taken for the day or the week, depending on the user’s selection. Pictures will be used to supplement the medication names displayed on the chart. The chart will have a popup screen that allows the user to add new medications and modify existing ones.
+
 
 ```markdown
 Syntax highlighted code block
