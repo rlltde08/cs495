@@ -13,4 +13,6 @@
 
 DOWNLOAD: COMING SOON
 
-PRESENTATIONS: COMING SOON
+Documentation/Presenations:
+
+[Software Requirements](https://rlltde08.github.io/cs495/about)
