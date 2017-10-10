@@ -11,9 +11,9 @@
 {:/}
 
 
-DOWNLOAD: COMING SOON
+## DOWNLOAD: COMING SOON
 
-Documentation/Presenations:
+### Documentation/Presenations:
 
 [Software Requirements](https://rlltde08.github.io/cs495/Pillbox-Final Requirements.pdf)
 
