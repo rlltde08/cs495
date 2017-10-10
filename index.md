@@ -1,10 +1,9 @@
 ## Welcome to GitHub Pages
-
+<div>
+[HOME](https://rlltde08.github.io/cs495)
+&nbsp &nbsp &nbsp
 [ABOUT](https://rlltde08.github.io/cs495/about)
-
-You can use the [editor on GitHub](https://github.com/rlltde08/cs495/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<div>
 
 ### Markdown
 
