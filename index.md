@@ -1,9 +1,10 @@
-[HOME](https://rlltde08.github.io/cs495)    [ABOUT](https://rlltde08.github.io/cs495/about)
 
 {::nomarkdown}
-
-<p>eyylmao</p>&nbsp &nbsp asdfasdfasdfasdfasdf
-
+<div>
+  <p>
+    [HOME](https://rlltde08.github.io/cs495)    [ABOUT](https://rlltde08.github.io/cs495/about)
+  </p>
+</div>
 {:/}
 
 ### Markdown
