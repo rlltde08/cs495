@@ -17,6 +17,9 @@ The purpose of this application is to act as a management tool for medications, 
 
 The medication chart is the main feature of the application that will show all of the medications needed to be taken for the day or the week, depending on the user’s selection. Pictures will be used to supplement the medication names displayed on the chart. The chart will have a popup screen that allows the user to add new medications and modify existing ones.
 
+The system will be able to push notifications to the user’s device to let them know when to take medications. The user will be able to acknowledge these notifications and specify the time that the medication was taken.
+
+
 
 ```markdown
 Syntax highlighted code block
