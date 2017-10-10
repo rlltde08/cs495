@@ -1,5 +1,3 @@
-## Welcome to GitHub Pages
-
 [HOME](https://rlltde08.github.io/cs495)    [ABOUT](https://rlltde08.github.io/cs495/about)
 
 
