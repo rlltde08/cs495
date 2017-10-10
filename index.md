@@ -1,10 +1,10 @@
 
 {::nomarkdown}
 <div>
-  <p style='font-size:2em'>
+  <p style='font-size:2em' align=center>
   <a href="https://rlltde08.github.io/cs495">Home</a>  &nbsp &nbsp &nbsp |  &nbsp &nbsp &nbsp
   <a href="https://rlltde08.github.io/cs495/about">About</a> &nbsp &nbsp &nbsp  | &nbsp &nbsp &nbsp
-  <a href="https://rlltde08.github.io/cs495/deliverables">Deliverables</a> &nbsp &nbsp &nbsp  | &nbsp &nbsp &nbsp
+  <a href="https://rlltde08.github.io/cs495/deliverables">Deliverables</a> &nbsp &nbsp &nbsp  
   </p>
 </div>
 {:/}
