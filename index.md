@@ -3,7 +3,7 @@
 [HOME](https://rlltde08.github.io/cs495)
 &nbsp &nbsp &nbsp
 [ABOUT](https://rlltde08.github.io/cs495/about)
-<div>
+</div>
 
 ### Markdown
 
