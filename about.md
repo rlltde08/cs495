@@ -10,4 +10,9 @@
 <hr>
 {:/}
 
-hello
+Team Members:
+
+Zac Linberg
+Austin Schey
+James Moore
+Joey Harter
