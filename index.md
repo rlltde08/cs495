@@ -1,6 +1,6 @@
 
 {::nomarkdown}
-</hr>
+<hr>
 <div>
   <p style='font-size:2em' align=center>
   <a href="https://rlltde08.github.io/cs495">Home</a>  &nbsp &nbsp &nbsp |  &nbsp &nbsp &nbsp
