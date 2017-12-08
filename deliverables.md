@@ -22,3 +22,5 @@
 [Requirements Presentation](https://rlltde08.github.io/cs495/Requirements Presentation.pdf)
 
 [Design Document](https://rlltde08.github.io/cs495/Design Document.pdf)
+
+[Project Demo Video](https://youtu.be/UabwOVKAwbc)
