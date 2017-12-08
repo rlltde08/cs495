@@ -24,4 +24,4 @@ The app will be able to push notifications to the user’s device to let them kn
 
 
 
-VIDEO: COMING SOON
+<iframe width="420" height="315" src="https://www.youtube.com/watch?v=UabwOVKAwbc&feature=youtu.be" frameborder="0" allowfullscreen></iframe>
