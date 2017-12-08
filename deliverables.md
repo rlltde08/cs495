@@ -11,7 +11,7 @@
 {:/}
 
 
-### DOWNLOAD: https://github.com/pillboxapp/Pillbox
+### DOWNLOAD: [GitHub Link](https://github.com/pillboxapp/Pillbox)
 
 ### Documentation/Presenations:
 
