@@ -11,7 +11,7 @@
 <hr>
 
 
-<iframe width="854" height="480" src="https://www.youtube.com/embed/UabwOVKAwbc" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<iframe width="650" height="480" src="https://www.youtube.com/embed/UabwOVKAwbc" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 {:/}
 
